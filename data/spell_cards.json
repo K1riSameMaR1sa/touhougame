@@ -1,0 +1,31 @@
+{
+  "spell_cards": [
+    {
+      "id": "starlit_bloom",
+      "name": "Starlit Bloom",
+      "duration": 8.0,
+      "pattern": "starlit_bloom",
+      "color": "#d9e6ff",
+      "threshold": 0.6,
+      "fire_interval": 0.22
+    },
+    {
+      "id": "lunar_spiral",
+      "name": "Lunar Spiral",
+      "duration": 7.0,
+      "pattern": "lunar_spiral",
+      "color": "#ffd166",
+      "threshold": 0.35,
+      "fire_interval": 0.2
+    },
+    {
+      "id": "abyss_ring",
+      "name": "Abyss Ring",
+      "duration": 7.5,
+      "pattern": "abyss_ring",
+      "color": "#c77dff",
+      "threshold": 0.2,
+      "fire_interval": 0.16
+    }
+  ]
+}

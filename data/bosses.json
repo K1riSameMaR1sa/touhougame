@@ -1,0 +1,11 @@
+{
+  "bosses": [
+    {
+      "id": "moonlit_witch",
+      "name": "Moonlit Witch",
+      "hp": 150,
+      "phase_thresholds": [0.6, 0.3],
+      "spell_cards": ["starlit_bloom", "lunar_spiral", "abyss_ring"]
+    }
+  ]
+}

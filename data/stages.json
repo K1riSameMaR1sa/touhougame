@@ -1,0 +1,9 @@
+{
+  "stages": [
+    {
+      "id": "stage_1_1",
+      "name": "Stage 1-1",
+      "boss_id": "moonlit_witch"
+    }
+  ]
+}
